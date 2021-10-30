@@ -1,0 +1,5 @@
+﻿  Template.cpp
+D:\Cracking_C++\17_Template\Template.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Cracking_C++\17_Template\Template.cpp(130,19): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Cracking_C++\17_Template\Template.cpp(131,19): warning C4305: “初始化”: 从“double”到“float”截断
+  17_Template.vcxproj -> D:\Cracking_C++\Debug\17_Template.exe

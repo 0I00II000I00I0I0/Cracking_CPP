@@ -1,0 +1,6 @@
+﻿  Animal.cpp
+  ExtendsTest.cpp
+D:\Cracking_C++\11_Extends\ExtendsTest.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Shape.cpp
+  正在生成代码...
+  11_Extends.vcxproj -> D:\Cracking_C++\Debug\11_Extends.exe

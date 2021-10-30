@@ -1,0 +1,12 @@
+﻿  Const.cpp
+D:\VSHome\Cracking_C++\02_Const\Const.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSHome\Cracking_C++\02_Const\Const.cpp(21,20): warning C4305: “初始化”: 从“int”到“char”截断
+D:\VSHome\Cracking_C++\02_Const\Const.cpp(21,15): warning C4309: “初始化”: 截断常量值
+D:\VSHome\Cracking_C++\02_Const\Const.cpp(24,22): warning C4305: “初始化”: 从“const int”到“char”截断
+D:\VSHome\Cracking_C++\02_Const\Const.cpp(24,16): warning C4309: “初始化”: 截断常量值
+  ConstString.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 21 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  02_Const.vcxproj -> D:\VSHome\Cracking_C++\Release\02_Const.exe

@@ -1,0 +1,4 @@
+﻿  Cout.cpp
+D:\Cracking_C++\01_Cout\Cout.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Cracking_C++\01_Cout\Cout.cpp(40,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“double”
+  01_Cout.vcxproj -> D:\Cracking_C++\Debug\01_Cout.exe
